@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\schoolwork\spring 2018\cpsc 351\hw1\hw1\source.cpp(19): warning C4101: 'Param': unreferenced local variable
+d:\schoolwork\spring 2018\cpsc 351\hw1\hw1\source.cpp(13): error C4716: 'mergeSort': must return a value
